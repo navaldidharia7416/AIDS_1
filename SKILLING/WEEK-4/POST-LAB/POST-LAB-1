@@ -1,0 +1,15 @@
+The puzzle can be solved by moving the tiles one by one in the single empty space and thus achieving the Goal state.
+
+Rules of solving puzzle
+
+Instead of moving the tiles in the empty space we can visualize moving the empty space in place of the tile.
+
+The empty space can only move in four directions (Movement of empty space)
+
+1.Up
+2.Down
+3.Right or
+4.Left
+The empty space cannot move diagonally and can take only one step at a time.
+
+AND EXAMPLE FROM PPT

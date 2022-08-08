@@ -1,0 +1,2 @@
+The only difference between Greedy BFS and A* BFS is in the evaluation function.
+ For Greedy BFS the evaluation function is f(n) = h(n) while for A* the evaluation function is f(n) = g(n) + h(n).
