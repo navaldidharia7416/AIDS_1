@@ -1,0 +1,5 @@
+The principle of optimality is the basic principle of dynamic programming,
+which was developed by Richard Bellman: that an optimal path has the property that whatever the initial
+conditions and control variables (choices) over some initial period,
+the control (or decision variables) chosen over the remaining period must be optimal for the remaining problem,
+with the state resulting from the early decisions taken to be the initial condition.

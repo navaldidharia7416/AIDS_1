@@ -1,0 +1,5 @@
+In simple hill climbing, the first closer node is chosen,
+ whereas in steepest ascent hill climbing all successors are compared and the closest to the solution is chosen.
+  Both forms fail if there is no closer node, which may happen if there are local maxima in the search space which are not solutions.
+  Steepest ascent hill climbing is similar to best-first search,
+which tries all possible extensions of the current path instead of only one.

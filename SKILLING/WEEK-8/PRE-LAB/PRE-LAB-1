@@ -1,0 +1,9 @@
+Algorithm for Simple Hill climbing:
+
+1.Assess the current state. If it is the goal state, return success.
+2.If step 1 didn't return success, loop through through the current state's neighbours:
+3.Pick a new state and assess it:
+    3.1. If it is the goal state, return success and exit.
+    3.2. Else if it is better than the current state we had assessed, assign this new state as the current state.
+    3.3. Else if it is not better than the current state, then return to Step 2 and continue looping.
+4.Exit.
